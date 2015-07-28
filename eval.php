@@ -9,7 +9,7 @@ $str = sprintf('eval(base64_decode("%s"));', base64_encode($cmd));
 
 
 /* imprimir comando encoded */
-echo $str , PHP_EOL;
+echo $str, PHP_EOL;
 
 
 /* executar comando */
