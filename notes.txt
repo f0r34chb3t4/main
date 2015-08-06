@@ -1,1 +1,5 @@
 Kernel Socks Bouncer
+
+Transparent SOCKS proxy for use with Linux kernel
+
+socat: 	multipurpose relay
