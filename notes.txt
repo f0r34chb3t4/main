@@ -3,3 +3,5 @@ Kernel Socks Bouncer
 Transparent SOCKS proxy for use with Linux kernel
 
 socat: 	multipurpose relay
+
+curl ftp://ftp.lysator.liu.se/pub/unix/pnscan/pnscan-1.11.tar.gz | tar xz; cd pnscan-* && make lnx && make install && cd ~
