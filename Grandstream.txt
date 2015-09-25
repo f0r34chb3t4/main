@@ -1,0 +1,84 @@
+Grandstream BT200 Command Shell
+Grandstream DP715 Command Shell Copyright 2006-2014
+Grandstream GXE-5024 Command Shell Copyright 2007-2008
+Grandstream GXP1100 Command Shell Copyright 2011
+Grandstream GXP1160 Command Shell Copyright 2011
+Grandstream GXP1165 Command Shell Copyright 2011
+Grandstream GXP1165 Command Shell Copyright 20111234
+Grandstream GXP1400 Command Shell Copyright 2011
+Grandstream GXP1405 Command Shell Copyright 2011
+Grandstream GXP1450 Command Shell Copyright 2011
+Grandstream GXP2100 Command Shell Copyright 2011
+Grandstream GXP2110 Command Shell Copyright 2011
+Grandstream GXV3140  V0.4B Command Shell Copyright 2008-2012
+Grandstream GXV3140  V1.0A Command Shell Copyright 2008-2012
+Grandstream GXW-4004  V1.3A Command Shell Copyright 2006-2008
+Grandstream GXW-4004  V1.3A Command Shell Copyright 2006-2012
+Grandstream GXW-4004  V1.3B Command Shell Copyright 2006-2008
+Grandstream GXW-4004  V1.3B Command Shell Copyright 2006-2011
+Grandstream GXW-4004  V1.3B Command Shell Copyright 2006-2014
+Grandstream GXW-4004  V1.5A Command Shell Copyright 2006-2008
+Grandstream GXW-4004  V1.5A Command Shell Copyright 2006-2011
+Grandstream GXW-4004  V1.5A Command Shell Copyright 2006-2012
+Grandstream GXW-4004  V1.5A Command Shell Copyright 2006-2013
+Grandstream GXW-4004  V1.5A Command Shell Copyright 2006-2014
+Grandstream GXW-4008  V0.2A Command Shell Copyright 2006-2007
+Grandstream GXW-4008  V1.3B Command Shell Copyright 2006-2008
+Grandstream GXW-4008  V1.3B Command Shell Copyright 2006-2011
+Grandstream GXW-4008  V1.5A Command Shell Copyright 2006-2008
+Grandstream GXW-4008  V1.5A Command Shell Copyright 2006-2011
+Grandstream GXW-4008  V1.5A Command Shell Copyright 2006-2013
+Grandstream GXW-4008  V1.5A Command Shell Copyright 2006-2014
+Grandstream GXW-4024  V0.2C Command Shell Copyright 2006-2008
+Grandstream GXW-4024  V0.2C Command Shell Copyright 2006-2011
+Grandstream GXW-4024  V0.4A Command Shell Copyright 2006-2008
+Grandstream GXW-4024  V0.4A Command Shell Copyright 2006-2011
+Grandstream GXW-4024  V0.4A Command Shell Copyright 2006-2012
+Grandstream GXW-4024  V0.4A Command Shell Copyright 2006-2013
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.10  HW: 2.0A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.10  HW: 2.2A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.13  HW: 1.1A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.13  HW: 2.0A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.13  HW: 2.2A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.4  HW: 2.0A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.5  HW: 1.1A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.5  HW: 2.2A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.5  HW: 2.2B ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.5  HW: 2.3A ) Command Shell
+Grandstream GXW4104 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.6  HW: 2.2B ) Command Shell
+Grandstream GXW4108 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.10  HW: 2.0A ) Command Shell
+Grandstream GXW4108 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.13  HW: 1.0E ) Command Shell
+Grandstream GXW4108 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.3.4.13  HW: 2.2A ) Command Shell
+Grandstream GXW4108 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.4  HW: 2.2A ) Command Shell
+Grandstream GXW4108 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.5  HW: 2.0A ) Command Shell
+Grandstream GXW4108 ( Boot:1.1.3.2  Loader:1.1.3.4  App:1.4.1.5  HW: 2.2A ) Command Shell
+Grandstream GXW4216  V2.3B Command Shell Copyright 2014
+Grandstream GXW4224  V2.3B Command Shell Copyright 2013
+Grandstream GXW4224  V2.3B Command Shell Copyright 2014
+Grandstream GXW4232  V2.3B Command Shell Copyright 2014
+Grandstream GXW4248  V1.1A Command Shell Copyright 2013
+Grandstream HT-502  V1.1B Command Shell Copyright 2006-2008
+Grandstream HT-502  V1.1C Command Shell Copyright 2006-2013
+Grandstream HT-502  V1.2A Command Shell Copyright 2006-2008
+Grandstream HT-502  V1.2A Command Shell Copyright 2006-2011
+Grandstream HT-502  V1.2A Command Shell Copyright 2006-2012
+Grandstream HT-502  V1.2A Command Shell Copyright 2006-2013
+Grandstream HT-502  V1.2A Command Shell Copyright 2006-2014
+Grandstream HT-502  V2.0A Command Shell Copyright 2006-2012
+Grandstream HT-502  V2.0A Command Shell Copyright 2006-2013
+Grandstream HT-502  V2.0A Command Shell Copyright 2006-2014
+Grandstream HT-503  V1.1B Command Shell Copyright 2006-2008
+Grandstream HT-503  V1.1B Command Shell Copyright 2006-2011
+Grandstream HT-503  V1.4A Command Shell Copyright 2006-2011
+Grandstream HT-503  V1.4A Command Shell Copyright 2006-2012
+Grandstream HT-503  V1.4A Command Shell Copyright 2006-2013
+Grandstream HT-503  V1.4A Command Shell Copyright 2006-2014
+Grandstream HT-503  V2.0A Command Shell Copyright 2006-2013
+Grandstream HT-503  V2.0A Command Shell Copyright 2006-2014
+Grandstream HT701 Command Shell Copyright 2006-2012
+Grandstream HT701 Command Shell Copyright 2006-2013
+Grandstream HT701 Command Shell Copyright 2006-2014
+Grandstream HT702 Command Shell Copyright 2006-2013
+Grandstream HT704 Command Shell Copyright 2006-2008
+Grandstream HT704 Command Shell Copyright 2006-2013
+Grandstream HT704 Command Shell Copyright 2006-2014
