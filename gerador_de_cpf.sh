@@ -1,5 +1,6 @@
 
 #!/bin/bash
+#
 # Gerador de CPF - ( bash Linux )
 # by f0r34chb3t4 
 #
