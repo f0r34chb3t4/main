@@ -1,0 +1,4 @@
+# D-Link DWA-182 Wireless USB Adapter
+
+sudo apt-get update
+sudo apt-get install rtl8812au-dkms
