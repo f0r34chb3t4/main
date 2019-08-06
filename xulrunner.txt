@@ -1,0 +1,7 @@
+https://developer.mozilla.org/en-US/docs/Archive/Mozilla/XULRunner#Releases
+
+https://www.filedropper.com/xulrunner
+https://www.sendspace.com/file/f8qbuk
+
+C:\Program Files (x86)\xulrunner29.0
+C:\Program Files (x86)\xulrunner45.0
