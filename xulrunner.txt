@@ -3,5 +3,9 @@ https://developer.mozilla.org/en-US/docs/Archive/Mozilla/XULRunner#Releases
 https://www.filedropper.com/xulrunner
 https://www.sendspace.com/file/f8qbuk
 
+http://www.botchief.com/xulrunner29.0.zip
+http://www.botchief.com/xulrunner33.0.zip
+http://www.botchief.com/xulrunner45.0.zip
+
 C:\Program Files (x86)\xulrunner29.0
 C:\Program Files (x86)\xulrunner45.0
